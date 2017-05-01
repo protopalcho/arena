@@ -1,0 +1,5 @@
+NONE
+NONE
+
+name population public_IP LAN_IP
+guerra 2 187.113.121.34 192.168.15.6
